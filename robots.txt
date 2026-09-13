@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanmein.github.io/MSFAgitation/sitemap.xml
